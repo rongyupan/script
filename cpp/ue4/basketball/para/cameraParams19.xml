@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<IntrinsicCam type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    2.7420441729448603e+03 0. 1920. 0. 2.7420441729448603e+03 1080. 0.
+    0. 1.</data></IntrinsicCam>
+<DistortionCam type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>5</cols>
+  <dt>d</dt>
+  <data>
+    0. 0. 0. 0. 0.</data></DistortionCam>
+<transR type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    5.8823974788506192e-02 -9.9826837072506747e-01
+    1.8440446704348634e-09 7.0527019463921259e-01 4.1558761822209439e-02
+    7.0771945138548498e-01 -7.0649394374166330e-01
+    -4.1630869865085463e-02 7.0649357968110915e-01</data></transR>
+<transT type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    -9.3851367720006900e-04 8.1269978524645126e-04
+    3.0026029018468985e+03</data></transT>
+<transProjection type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>4</cols>
+  <dt>d</dt>
+  <data>
+    -1.1951704346857148e+03 -2.8172272391227948e+03
+    1.3564676780441816e+03 5.7649949981000852e+06 1.1708685683211440e+03
+    6.8994621235100411e+01 2.7036110638069003e+03 3.2428133624533610e+06
+    -7.0649394374166330e-01 -4.1630869865085463e-02
+    7.0649357968110915e-01 3.0026029018468985e+03 0. 0. 0. 1.</data></transProjection>
+</opencv_storage>
